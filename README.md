@@ -3,6 +3,42 @@
 Hands-free voice control for web-based NSPIRE inspection apps. Built and tested against
 HACSM NSPIRE Practice (a training app). Reviewers: start with REVIEW.md.
 
+## Videos
+- [How Voice Pilot works (1:20)](docs/videos/voice-pilot-how-it-works.mp4) · [captions](docs/videos/voice-pilot-how-it-works.srt)
+- [How to set up voice (0:54)](docs/videos/voice-pilot-how-to-set-up.mp4) · [captions](docs/videos/voice-pilot-how-to-set-up.srt)
+- [Walkthrough Clip device concept, with exploded view (0:44)](docs/videos/walkthrough-clip-device-concept.mp4)
+
+## Screenshots
+
+**Voice Pilot in the app (real footage)**
+
+| Several findings in one breath | Life-threatening read back |
+|---|---|
+| ![Kitchen: three findings](docs/screenshots/app-kitchen-three-findings.png) | ![Smoke alarm: life-threatening](docs/screenshots/app-smoke-alarm-life-threatening.png) |
+
+**How it decides**
+
+| From words to a recorded finding | Not sure? Jev, then you |
+|---|---|
+| ![Flow](docs/screenshots/how-it-works-flow.png) | ![Not sure](docs/screenshots/not-sure-asks-jev-then-you.png) |
+| **HQS wording to NSPIRE** | **Learning loop** |
+| ![HQS to NSPIRE](docs/screenshots/hqs-to-nspire.png) | ![Learning loop](docs/screenshots/learning-loop.png) |
+
+**First-time setup**
+
+![Step 1: home screen](docs/screenshots/setup-step1-home-screen.png)
+![Setup screens](docs/screenshots/setup-screens.png)
+
+**Walkthrough Clip device (design concept, not yet built)**
+
+| Clip and pocket hub | Logging a finding |
+|---|---|
+| ![Clip and hub](docs/screenshots/device-clip-and-hub.png) | ![In use](docs/screenshots/device-clip-in-use-life-threatening.png) |
+| **Photo with camera-on light** | **Offline, then sync** |
+| ![Photo](docs/screenshots/device-clip-photo.png) | ![Sync](docs/screenshots/device-hub-sync.png) |
+
+![Exploded view](docs/screenshots/device-exploded-view.png)
+
 ## Voice Pilot for HACSM NSPIRE Practice
 
 Bluetooth headset and voice control for the inspection screen. A small local matcher

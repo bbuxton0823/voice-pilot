@@ -1,0 +1,67 @@
+1
+00:00:00,500 --> 00:00:01,700
+Meet Voice Pilot.
+
+2
+00:00:01,500 --> 00:00:07,830
+It lets you inspect a unit by talking, so your hands stay free for the flashlight and the outlet tester.
+
+3
+00:00:09,029 --> 00:00:13,949
+You talk through your earbuds. The app turns your words into an NSPIRE finding,
+
+4
+00:00:13,750 --> 00:00:17,899
+presses the same button you would, and tells you what it recorded.
+
+5
+00:00:19,100 --> 00:00:24,429
+Here's a real example. In the kitchen, say: outlet dead, and GFCI won't trip,
+
+6
+00:00:24,230 --> 00:00:27,489
+and cabinet door broken. It records all three,
+
+7
+00:00:27,289 --> 00:00:32,490
+picks the Unit area from the room, and reads them back with their severity.
+
+8
+00:00:33,689 --> 00:00:38,620
+Life-threatening findings are called out with their twenty-four hour deadline.
+
+9
+00:00:38,420 --> 00:00:40,810
+If anything is wrong, just say undo.
+
+10
+00:00:42,009 --> 00:00:48,150
+Still talking HQS? That's fine. It understands HQS wording and item numbers,
+
+11
+00:00:47,950 --> 00:00:53,160
+and it explains when an old HQS fail isn't an NSPIRE deficiency.
+
+12
+00:00:54,359 --> 00:00:58,460
+When a phrase is unusual, it asks Jev, a fast classifier.
+
+13
+00:00:58,259 --> 00:01:02,080
+If neither is sure, it asks you, instead of guessing.
+
+14
+00:01:03,280 --> 00:01:06,880
+Phrases it misses are saved without personal details,
+
+15
+00:01:06,680 --> 00:01:11,570
+labeled overnight by an AI on your own server, and once you approve them,
+
+16
+00:01:11,370 --> 00:01:13,750
+the app recognizes them next time.
+
+17
+00:01:14,950 --> 00:01:19,150
+You confirm every finding. Voice Pilot just saves you the typing.

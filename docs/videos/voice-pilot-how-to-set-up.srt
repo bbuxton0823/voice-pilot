@@ -1,0 +1,47 @@
+1
+00:00:00,500 --> 00:00:03,860
+Setting up voice takes about two minutes. Here's how.
+
+2
+00:00:05,059 --> 00:00:09,019
+First, put the app on your home screen. On iPad, tap Share,
+
+3
+00:00:08,820 --> 00:00:12,910
+then Add to Home Screen. On Android, just tap the Add button.
+
+4
+00:00:14,109 --> 00:00:18,750
+Next, connect your earbuds in Bluetooth settings, then come back to the app.
+
+5
+00:00:19,949 --> 00:00:23,550
+Tap Turn on microphone, and allow it. Say a few words.
+
+6
+00:00:23,350 --> 00:00:26,129
+The green bar shows the app can hear you.
+
+7
+00:00:27,329 --> 00:00:31,660
+Tap Play. If you hear the message in your earbuds, tap yes.
+
+8
+00:00:32,859 --> 00:00:36,890
+Press your earbud button once. If your earbuds don't support it,
+
+9
+00:00:36,689 --> 00:00:39,460
+you'll get a big green Talk button instead.
+
+10
+00:00:40,659 --> 00:00:46,060
+Finally, practice by saying: smoke alarm missing. Nothing gets recorded.
+
+11
+00:00:47,259 --> 00:00:50,900
+That's it. Press once to talk, twice for the next item,
+
+12
+00:00:50,700 --> 00:00:53,020
+and say undo if anything is wrong.
