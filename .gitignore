@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+tools/setup_harness/app.js
+tools/bookmarklet.js
+public/voice/
+data/
+review.csv
+learned.json
+.env*

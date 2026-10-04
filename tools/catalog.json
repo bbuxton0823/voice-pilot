@@ -1,0 +1,334 @@
+{
+ "Address and Signage": [
+  "Address, signage, or building identification codes are broken, illegible, or not visible."
+ ],
+ "Bathtub and Shower": [
+  "Only 1 bathtub or shower is present and it is inoperable or does not drain.",
+  "A bathtub or shower is inoperable or does not drain and at least 1 bathtub or shower is present elsewhere that is operational.",
+  "Bathtub component or shower component is damaged, inoperable, or missing such that it may limit the resident's ability to maintain personal hygiene.",
+  "Bathtub component or shower component is damaged, inoperable, or missing and it does not limit the resident's ability to maintain personal hygiene.",
+  "Bathtub or shower cannot be used in private."
+ ],
+ "Cabinet and Storage": [
+  "Food storage space is not present.",
+  "Storage component is damaged, inoperable, or missing."
+ ],
+ "Call-For-Aid System": [
+  "System is blocked, or pull cord is higher than 6 inches off the floor.",
+  "System does not function properly."
+ ],
+ "Carbon Monoxide": [
+  "Carbon monoxide alarm is missing, not installed, or not installed in a proper location.",
+  "Carbon monoxide alarm is obstructed.",
+  "Carbon monoxide alarm does not produce an audio or visual alarm when tested."
+ ],
+ "Ceiling": [
+  "Ceiling has an unstable surface.",
+  "Ceiling has a hole.",
+  "Ceiling component(s) is not functionally adequate."
+ ],
+ "Chimney": [
+  "A visually accessible chimney, flue, or firebox connected to a fireplace or wood-burning appliance is incomplete or damaged such that it may not safely contain fire and convey smoke and combustion gases to the exterior.",
+  "Chimney exhibits signs of structural failure."
+ ],
+ "Clothes Dryer Exhaust Ventilation": [
+  "Electric dryer transition duct is detached or missing.",
+  "Gas dryer transition duct is detached or missing.",
+  "Electric dryer exhaust ventilation system has restricted airflow.",
+  "Dryer transition duct is constructed of unsuitable material.",
+  "Gas dryer exhaust ventilation system has restricted airflow.",
+  "Exterior dryer vent cover, cap, or a component thereof is missing."
+ ],
+ "Cooking Appliance": [
+  "Cooking range, cooktop, or oven does not ignite or produce heat.",
+  "Cooking range, cooktop, or oven component is damaged or missing such that the device is unsafe for use.",
+  "Primary cooking appliance is missing.",
+  "A microwave is the primary cooking appliance and it is damaged.",
+  "A burner does not produce heat, but at least 1 other burner is present on the cooking range or cooktop and does produce heat."
+ ],
+ "Door - Entry": [
+  "Entry door will not open.",
+  "Entry door will not close.",
+  "Entry door self-closing mechanism is damaged, inoperable, or missing.",
+  "Hole, split, or crack that penetrates completely through entry door.",
+  "Entry door is missing.",
+  "Entry door surface is delaminated or separated.",
+  "Entry door frame, threshold, or trim is damaged or missing.",
+  "Entry door seal, gasket, or stripping is damaged, inoperable, or missing.",
+  "Entry door component is damaged, inoperable, or missing and it does not limit the door’s ability to provide privacy or protection from weather or infestation.",
+  "Entry door cannot be secured."
+ ],
+ "Door - Fire": [
+  "Fire labeled door does not open.",
+  "Fire labeled door does not close and latch or the self-closing hardware is damaged or missing such that the door does not self-close and latch.",
+  "Fire labeled door assembly has a hole of any size or is damaged such that its integrity may be compromised.",
+  "Fire labeled door seal or gasket is damaged or missing.",
+  "An object is present that may prevent the fire labeled door from closing and latching or self-closing and latching.",
+  "Fire labeled door cannot be secured.",
+  "Fire labeled door is missing."
+ ],
+ "Door - General": [
+  "A passage door does not open.",
+  "A passage door component is damaged, inoperable, or missing and the door is not functionally adequate.",
+  "A door that is not intended to permit access between rooms has a damaged, inoperable, or missing",
+  "An exterior door component is damaged, inoperable, or missing."
+ ],
+ "Drain": [
+  "Drain is fully blocked."
+ ],
+ "Egress": [
+  "Obstructed means of egress.",
+  "Sleeping room is located on the 3rd floor or below and has an obstructed rescue opening.",
+  "Fire escape access is obstructed."
+ ],
+ "Electrical - Conductor, Outlet, and Switch": [
+  "Outlet or switch is damaged.",
+  "Testing indicates a three-pronged outlet is not properly wired or grounded.",
+  "Outlet does not have visible damage and testing indicates it is not energized.",
+  "Exposed electrical conductor.",
+  "Water is currently in contact with an electrical conductor."
+ ],
+ "Electrical - GFCI/AFCI": [
+  "GFCI outlet or GFCI breaker is not visibly damaged and the test or reset button is inoperable.",
+  "AFCI outlet or AFCI breaker is not visibly damaged and the test or reset button is inoperable.",
+  "An unprotected outlet is present within six feet of a water source."
+ ],
+ "Electrical - Service Panel": [
+  "Electrical service panel is not readily accessible.",
+  "The overcurrent protection device is damaged.",
+  "The overcurrent protection device is contaminated."
+ ],
+ "Elevator": [
+  "Elevator is inoperable.",
+  "Elevator door does not fully open and close.",
+  "Elevator cab is not level with the floor.",
+  "Safety edge device has malfunctioned or is inoperable."
+ ],
+ "Exit Sign": [
+  "Exit sign is damaged, missing, obstructed, or not adequately illuminated."
+ ],
+ "Fence and Gate": [
+  "Fence component is missing.",
+  "Gate does not open, close, latch, or lock.",
+  "Fence demonstrates signs of collapse."
+ ],
+ "Fire Escape": [
+  "Fire escape component is damaged or missing."
+ ],
+ "Fire Extinguisher": [
+  "Fire extinguisher pressure gauge reads over or under-charged.",
+  "Fire extinguisher service tag is missing, illegible, or expired.",
+  "Fire extinguisher is damaged or missing."
+ ],
+ "Flammable and Combustible Item": [
+  "Flammable or combustible item is on or within 3 feet of an appliance that provides heat for thermal comfort or a fuel-burning water heater. OR Improperly stored chemicals."
+ ],
+ "Floor": [
+  "Floor substrate is exposed.",
+  "Floor component(s) is not functionally adequate."
+ ],
+ "Food Preparation Area": [
+  "Food preparation area is not present.",
+  "Food preparation area is damaged or is not functionally adequate."
+ ],
+ "Foundation": [
+  "Foundation is cracked.",
+  "Foundation has exposed rebar or foundation is spalling, flaking, or chipping.",
+  "Foundation is infiltrated by water.",
+  "Foundation support post, column, beam, or girder is damaged.",
+  "Foundation vent cover is missing or damaged."
+ ],
+ "Garage Door": [
+  "Garage door has a hole.",
+  "Garage door does not open, close, or remain open or closed."
+ ],
+ "Grab Bar": [
+  "Grab bar is not secure."
+ ],
+ "Guardrail": [
+  "Guardrail is missing or not installed.",
+  "Guardrail is not functionally adequate."
+ ],
+ "Handrail": [
+  "Handrail is missing.",
+  "Handrail is not secure.",
+  "Handrail is not functionally adequate.",
+  "Handrail is not installed where required."
+ ],
+ "Heating, Ventilation, and Air Conditioning (HVAC)": [
+  "The inspection date is on or between October 1 and March 31 and the permanently installed heating source is not working or the permanently installed heating source is working and the interior temperature is below 64 degrees Fahrenheit.",
+  "The inspection date is on or between October 1 and March 31 and the permanently installed heating source is working and the interior temperature is 64 to 67.9 degrees Fahrenheit.",
+  "Air conditioning system or device is not operational.",
+  "Unvented space heater that burns gas, oil, or kerosene is present.",
+  "Combustion chamber cover or gas shutoff valve is missing from a fuel burning heating appliance.",
+  "Heating system or device safety shield is damaged or missing.",
+  "The inspection date is on or between April 1 and September 30 and a permanently installed heating source is damaged, inoperable, missing, or not installed.",
+  "Fuel burning heating system or device exhaust vent is misaligned, blocked, disconnected, improperly connected, damaged, or missing.",
+  "The inspection date is on or between October 1 and March 31 and the permanently installed heating source is inoperable."
+ ],
+ "Infestation": [
+  "Evidence of cockroaches.",
+  "Extensive cockroach infestation.",
+  "Evidence of bedbugs.",
+  "Extensive bedbug infestation.",
+  "Evidence of mice.",
+  "Extensive mouse infestation.",
+  "Evidence of rats.",
+  "Extensive rat infestation.",
+  "Evidence of other pests."
+ ],
+ "Leak - Gas/Oil": [
+  "Natural gas, propane, or oil leak."
+ ],
+ "Leak - Sewage System": [
+  "Blocked sewage system.",
+  "Leak in sewage system.",
+  "Cap to the cleanout or pump cover is detached or missing.",
+  "Cleanout cap or riser is damaged."
+ ],
+ "Leak - Water": [
+  "Environmental water intrusion.",
+  "Plumbing leak.",
+  "Fluid is leaking from the sprinkler assembly."
+ ],
+ "Lighting - Auxiliary": [
+  "Auxiliary lighting is damaged, missing, or fails to illuminate when tested."
+ ],
+ "Lighting - Exterior": [
+  "A permanently installed light fixture is damaged, inoperable, missing, or not secure."
+ ],
+ "Lighting - Interior": [
+  "A permanently installed light fixture is inoperable.",
+  "A permanently installed light fixture is not secure.",
+  "At least one (1) permanently installed light fixture is not present in the kitchen and bathroom."
+ ],
+ "Litter": [
+  "Litter is accumulated in an undesignated area."
+ ],
+ "Minimum Electrical and Lighting": [
+  "At least two (2) working outlets are not present within each habitable room. OR At least one (1) working outlet and one (1) permanently installed light fixture is not present within each habitable room."
+ ],
+ "Mold-Like Substance": [
+  "Presence of mold-like substance at moderate levels is observed visually.",
+  "Presence of mold-like substance at high levels is observed visually.",
+  "Presence of mold-like substance at extremely high levels is observed visually.",
+  "Elevated moisture level."
+ ],
+ "Parking Lot": [
+  "Parking lot has any one pothole that is 4 inches deep and 1 square foot or greater.",
+  "Parking lot has ponding."
+ ],
+ "Potential Lead-Based Paint Hazards - Visual Assessment": [
+  "Paint in a Unit or Inside the target property is deteriorated – below the level required for lead-safe work practices by a lead-certified firm or for passing clearance.",
+  "Paint in a Unit or Inside the target property is deteriorated – above the level required for lead-safe work practices by a lead-certified firm and passing clearance.",
+  "Paint Outside on a target property is deteriorated – below the level required for lead-safe work practices by a lead-certified firm or for passing clearance.",
+  "Paint Outside on a target property is deteriorated – above the level required for lead-safe work practices by a lead-certified firm and passing clearance."
+ ],
+ "Private Roads and Driveways": [
+  "Road or driveway access to the property is blocked or impassable for vehicles.",
+  "Road or driveway has any one pothole that is 4 inches deep and 1 square foot or greater."
+ ],
+ "Refrigerator": [
+  "Refrigerator is inoperable such that it may be unable to safely and adequately store food.",
+  "Refrigerator component is damaged such that it impacts functionality.",
+  "Refrigerator is missing."
+ ],
+ "Retaining Wall": [
+  "Retaining wall is leaning away from the fill side.",
+  "Retaining wall is partially or completely collapsed."
+ ],
+ "Roof Assembly": [
+  "Restricted flow of water from a roof drain, gutter, or downspout.",
+  "Gutter component is damaged, missing, or unfixed.",
+  "Roof surface has standing water.",
+  "Substrate is exposed.",
+  "Roof assembly has a hole.",
+  "Roof assembly is damaged."
+ ],
+ "Sharp Edges": [
+  "A sharp edge that can result in a cut or puncture hazard is present."
+ ],
+ "Sidewalk, Walkway, Ramp": [
+  "Sidewalk, walkway, or ramp is blocked or impassable.",
+  "Sidewalk, walkway, or ramp is not functionally adequate."
+ ],
+ "Sink": [
+  "Sink or sink component is damaged or missing and the sink is not functionally adequate.",
+  "Water is directed outside of the basin.",
+  "Sink is not draining.",
+  "Sink is improperly installed, pulling away from the wall, leaning, or there are gaps between the sink and wall.",
+  "Sink component is damaged or missing and the sink is functionally adequate.",
+  "Cannot activate or deactivate hot and cold water.",
+  "Sink is missing or not installed within the primary kitchen."
+ ],
+ "Site Drainage": [
+  "Water runoff is unable to flow through the site drainage system.",
+  "Erosion is present.",
+  "Grate is not secure or does not cover the site drainage system’s collection point."
+ ],
+ "Smoke Alarm": [
+  "Smoke alarm is not installed where required.",
+  "Smoke alarm is obstructed.",
+  "Smoke alarm does not produce an audio or visual alarm when tested."
+ ],
+ "Sprinkler Assembly": [
+  "Sprinkler head assembly is encased or obstructed by an item or object that is within 18 inches of the sprinkler head.",
+  "Sprinkler assembly component is damaged, inoperable, or missing and it is detrimental to performance.",
+  "Sprinkler assembly has evidence of corrosion.",
+  "Sprinkler assembly has evidence of foreign material that is detrimental to performance."
+ ],
+ "Steps and Stairs": [
+  "Tread is missing or damaged.",
+  "Stringer is damaged.",
+  "Step or stair is not functionally adequate."
+ ],
+ "Structural System": [
+  "Structural system exhibits signs of serious failure."
+ ],
+ "Toilet": [
+  "Only 1 toilet was installed, and it is missing.",
+  "A toilet is missing and at least 1 toilet is installed elsewhere that is operational.",
+  "Only 1 toilet was installed, and it is damaged or inoperable.",
+  "A toilet is damaged or inoperable and at least 1 toilet is installed elsewhere that is operational.",
+  "Toilet component is damaged, inoperable, or missing such that it may limit the resident’s ability to safely discharge human waste.",
+  "Toilet is not secured at the base.",
+  "Toilet component is damaged, inoperable, or missing and it does not limit the resident’s ability to discharge human waste.",
+  "Toilet cannot be used in private."
+ ],
+ "Trash Chute": [
+  "Chute door does not open or self-close and latch.",
+  "Chute is clogged."
+ ],
+ "Trip Hazard": [
+  "Trip hazard on walking surface."
+ ],
+ "Ventilation": [
+  "Exhaust system does not respond to the control switch.",
+  "Exhaust system has restricted airflow.",
+  "Exhaust system component is damaged or missing.",
+  "Bathroom does not have proper ventilation or dehumidification."
+ ],
+ "Wall - Exterior": [
+  "Exterior wall covering has missing sections of at least 1 square foot per wall.",
+  "Exterior wall has peeling paint of 10 square feet or more.",
+  "Exterior wall component(s) is not functionally adequate."
+ ],
+ "Wall - Interior": [
+  "Interior wall has a loose or detached surface covering.",
+  "Interior wall component(s) is not functionally adequate.",
+  "Interior wall has a hole that is greater than 2 inches in diameter or there is an accumulation of holes that are cumulatively greater than 6 inches by 6 inches."
+ ],
+ "Water Heater": [
+  "Temperature pressure relief (TPR) valve has an active leak or is obstructed or relief valve discharge piping is damaged, capped, has an upward slope, or is constructed of unsuitable material.",
+  "No hot water.",
+  "The relief valve discharge piping is missing or terminates greater than 6 inches or less than 2 inches from waste receptor flood-level.",
+  "Chimney or flue piping is blocked, misaligned, or missing.",
+  "Gas shutoff valve is damaged, missing, or not installed."
+ ],
+ "Window": [
+  "Window will not open or stay open.",
+  "Window cannot be secured.",
+  "Window will not close.",
+  "Window component is damaged or missing and the window is not functionally adequate."
+ ]
+}
