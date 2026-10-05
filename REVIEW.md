@@ -16,6 +16,8 @@ same button a finger would, then says back what it recorded.
 | Voice output | clipSpeaker.ts, tools/make_voice_clips.py | Fallback when a clip is missing? |
 | Setup UX | VoiceSetup.tsx, VoicePilotButton.tsx | Can a non-technical user get stuck on any step? |
 | Security | server/*.ts, learn_receiver.py | Origin checks, rate limit, secret handling, input limits |
+| Android Screen Pilot | android/app/src/main/java/.../ScreenPilotService.kt, ScreenMatcher.kt | Can it ever tap a save/submit/sign button? Does anything with tenant names reach the log? Is confirm-before-tap the default? |
+| Android voice + keyboard | VoiceController.kt, WalkthroughKeyboard.kt, HeadsetService.kt | Headset mic routing, what dictated text is logged (length only) |
 
 ## Design decisions to challenge
 - The pilot never submits or signs an inspection; it only marks findings, and every mark is read back and undoable.
@@ -39,6 +41,12 @@ same button a finger would, then says back what it recorded.
 The live tests drive a public training site in a headless browser and only create local drafts there.
 Point them at your own deployment with APP_URL=https://your-app.example.
 tools/jev_live_test.py needs JEV_KEY in the environment and makes real Jev API calls.
+
+## Android tests
+    cd android && ./gradlew testDebugUnitTest assembleDebug lintDebug
+18 unit tests cover command parsing, the screen matcher (HUD wording, other apps' wording, refusing
+save/submit/sign/delete, asking when vague) and the field-test scorecard. On-device behavior has not
+been tested by the author's tooling yet; it needs a real phone.
 
 ## Known limits
 - iPad web apps opened from the home screen may not allow speech recognition (WebKit limitation).

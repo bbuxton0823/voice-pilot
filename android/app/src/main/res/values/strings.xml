@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Walkthrough Bridge</string>
+    <string name="keyboard_name">Walkthrough Keyboard</string>
+    <string name="screen_pilot_description">Lets you fill in the inspection app on your screen by voice. It reads the buttons and fields on screen, points at the one you named, and taps it after you say yes. It never taps save, submit, sign or delete, and it only works while you are using the phone.</string>
+</resources>

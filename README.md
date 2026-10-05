@@ -3,6 +3,13 @@
 Hands-free voice control for web-based NSPIRE inspection apps. Built and tested against
 HACSM NSPIRE Practice (a training app). Reviewers: start with REVIEW.md.
 
+## Android companion app (android/)
+Walkthrough Bridge is the Android side: headset button control, a voice keyboard that types into
+any app, and **Screen Pilot**, which fills in whatever inspection app is open by voice. Screen Pilot
+outlines the matching button and taps only after you say "yes" (or automatically, if you turn that
+on); it never taps save, submit, sign, complete, delete, sync or upload, and it has no remote control.
+See android/README.md. Build: Android SDK 34 and JDK 17+, then `cd android && ./gradlew testDebugUnitTest assembleDebug`.
+
 ## Videos
 - [How Voice Pilot works (1:20)](docs/videos/voice-pilot-how-it-works.mp4) · [captions](docs/videos/voice-pilot-how-it-works.srt)
 - [How to set up voice (0:54)](docs/videos/voice-pilot-how-to-set-up.mp4) · [captions](docs/videos/voice-pilot-how-to-set-up.srt)
